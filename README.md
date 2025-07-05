@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/lokimcpuniverse-rancher-mcp-server-badge.png)](https://mseep.ai/app/lokimcpuniverse-rancher-mcp-server)
+
 # Rancher MCP Server
 
 <div align="center">
